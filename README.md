@@ -33,6 +33,8 @@ Demo主题(Demo Subject)：
 3.object 接收，IDictionary<string,object>进行数据解析
 
 4.dynamic 接收，DynamicParameters进行Get数据
+
+5.DynamicParameters 来避免数据库注入，其中可以 “p.AddDynamicParams(new { Id = model.Id });” 进行数据映射
 主页（Homepage）
 --------------------------------
 https://github.com/StackExchange/dapper-dot-net
