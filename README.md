@@ -22,8 +22,11 @@ https://github.com/StackExchange/dapper-dot-net
 参考Blog(Refer to Blog):
 --------------------------------
 http://www.cnblogs.com/liuning8023/p/4363910.html
+
 http://www.cnblogs.com/cyb331/category/547284.html
+
 http://www.lanhusoft.com/Article/181.html
+
 http://www.cnblogs.com/yankliu-vip/p/4182892.html
 
 扩展(Extension)：
