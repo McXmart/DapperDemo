@@ -24,6 +24,12 @@ Demo主题(Demo Subject)：
 
 7.如何调用存储过程
 
+注意(PS)
+--------------------------------
+1.IDataReader
+2.SqlMapper.GridReader 和 SqlMapper.GridReader.Read 读取多个类
+3.object 接收，IDictionary<string,object>进行数据解析
+4.dynamic 接收，DynamicParameters进行Get数据
 主页（Homepage）
 --------------------------------
 https://github.com/StackExchange/dapper-dot-net
